@@ -1,4 +1,4 @@
-.\objects\main.o: Weather\main.c
+.\objects\main.o: ClappingMusic\main.c
 .\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board\board_accelerometer.h
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_SDK_DFP\2.3.0\platform\utilities\inc\fsl_debug_console.h
@@ -29,4 +29,5 @@
 .\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Driver\Include\Driver_Common.h
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\main.o: Weather\utils.h
+.\objects\main.o: ClappingMusic\utils.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

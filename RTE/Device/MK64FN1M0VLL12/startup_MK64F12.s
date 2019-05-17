@@ -475,6 +475,7 @@ Reset_Handler   PROC
                 IMPORT  __main
 
                 IF      :LNOT::DEF:RAM_TARGET
+
                 LDR R0, =FlashConfig    ; dummy read, workaround for flashConfig
                 ENDIF
 

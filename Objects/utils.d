@@ -1,4 +1,4 @@
-.\objects\utils.o: Weather\utils.c
+.\objects\utils.o: ClappingMusic\utils.c
 .\objects\utils.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_SDK_DFP\2.3.0\platform\devices\fsl_device_registers.h
 .\objects\utils.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_SDK_DFP\2.3.0\platform\devices\MK64F12/include/MK64F12.h
 .\objects\utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
@@ -12,4 +12,4 @@
 .\objects\utils.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_SDK_DFP\2.3.0\platform\devices\MK64F12/include/fsl_bitaccess.h
 .\objects\utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\utils.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_SDK_DFP\2.3.0\platform\devices\MK64F12/include/MK64F12_features.h
-.\objects\utils.o: Weather\utils.h
+.\objects\utils.o: ClappingMusic\utils.h
